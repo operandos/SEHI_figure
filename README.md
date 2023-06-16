@@ -1,4 +1,4 @@
-# SEHI_figure
+# SEHI_principle
 
 The working principal of Secondary Electron Hyperspectral Imaging is energy filtering in the SEM (scanning electron microscope) column.  
 <table>
