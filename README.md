@@ -5,7 +5,7 @@ The working principal of Secondary Electron Hyperspectral Imaging is energy filt
 <table>
    <tr>
       <td rowspan="2">
-        < img src=https://github.com/operandos/SEHI_figure/blob/main/EF-SEM.gif) width="300"/ >
+        < img src="https://github.com/operandos/SEHI_figure/blob/main/EF-SEM.gif" width="300"/ >
         </td>
         <td> ![](https://github.com/operandos/SEHI_figure/blob/main/EF-SEM_1.gif) </td>
      </td>
