@@ -3,16 +3,16 @@
 The working principal of Secondary Electron Hyperspectral Imaging is energy filtering in the SEM (scanning electron microscope) column.  
 <table>
    <tr>
-      <td rowspan="2">
+      <td rowspan="2"> [**A**]
         <img src="https://github.com/operandos/SEHI_figure/blob/main/EF-SEM.gif" width="300"/>
         </td>
-        <td> 
+        <td> [**B**]
            <img src="https://github.com/operandos/SEHI_figure/blob/main/EF-SEM_1.gif" width="300"/> 
         </td>
      </td>
    </tr>
    <tr>
-      <td> 
+      <td> [**C**]
          <img src="https://github.com/operandos/SEHI_figure/blob/main/Spec.gif" width="300"/>
       </td>
    </tr>
