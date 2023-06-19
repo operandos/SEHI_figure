@@ -18,12 +18,13 @@ The working principal of Secondary Electron Hyperspectral Imaging is energy filt
    </tr>
 
 ## Part A
-Energy filtering is applied to secondary electrons by the **mirror electrode** (part a in figure below).  
-Only electrons below the mirror electrode low pass filter are detected.  
+Energy filtering is applied to secondary electrons by the **mirror electrode**.  
+Only electrons below the mirror electrode applied low pass filter are detected.  
 A secondary electron image is taken at this mirror voltage setting.  
 
 ## Part B
-Images are taken sequentially to build the hyperspectral image volume.
+Images are taken sequentially, while stepping the mirror electrode bias, to build the hyperspectral image volume.
 
 ## Part C
-Secondary electron spectra are made from regions of the image volume.
+Secondary electron spectra are made by differentiating emission intensity with respect to energy.  
+Location specific secondary electron spectra are produced from regions of the image volume.
